@@ -1,4 +1,4 @@
-	package org.usfirst.frc.team3647.robot;
+package org.usfirst.frc.team3647.robot;
 
 import edu.wpi.first.wpilibj.BuiltInAccelerometer;
 import edu.wpi.first.wpilibj.CameraServer;
